@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fiel-afb
-- 👀 I’m interested in crypto and privacity applications 
+- 👀 I’m interested in crypto and privacy applications 
 - 🌱 I’m currently learning Python and automation
 - 💞️ I’m looking to collaborate on related open source software
 - 📫 Reach me on my

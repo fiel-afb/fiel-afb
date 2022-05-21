@@ -1,0 +1,10 @@
+My Basic git commands 
+  1. git init // inititiates a git on the folder
+  2. git status
+  3. git config --global user.mail "mail@example
+  4. git config --global user.name "my name"  
+  5. git commit -m "initial commit" 
+  6. git remote paste origin www.pasteexample.com 
+  7. git add . // add all archives to commit 
+  8. git push // semds the archives 
+  

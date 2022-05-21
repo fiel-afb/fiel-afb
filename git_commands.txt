@@ -6,5 +6,7 @@ My Basic git commands
   5. git commit -m "initial commit" 
   6. git remote paste origin www.pasteexample.com 
   7. git add . // add all archives to commit 
-  8. git push // semds the archives 
+  8. git push // sends the archives 
+  
+  source https://www.youtube.com/watch?v=kB5e-gTAl_s&list=PLsDeXT7BAN_UxKfEGAtRNuexuixxu6ctL&index=2
   

@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @fiel-afb
 - 👀 I’m interested in BTC and privacy applications 
-- 🌱 I’m currently learning Python and automation
+- 🌱 I’m currently learning C, Python, and Artificial Intelligence
 - 💞️ I’m looking to collaborate on related open source software
 - 📫 Reach me on my
   -   Email fiel.afb@gmail.com
-  -   Twitter @fiel.afb
+  -   Twitter @B21Andre
 
 <!---
 fiel-afb/fiel-afb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
